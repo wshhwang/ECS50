@@ -1,5 +1,5 @@
-#University of California, Davis ECS50
-Computer Organization &amp; Machine-Dependent Programming 
+<h2>University of California, Davis ECS50</h2></br>
+<b>Computer Organization &amp; Machine-Dependent Programming</b> </br>
 <ul>
 <li>C 
 <li>C++ 
